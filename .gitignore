@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/normal_demo/node_modules
+/redux_demo/node_modules
 /.pnp
 .pnp.js
 

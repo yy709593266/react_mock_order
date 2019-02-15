@@ -1,0 +1,14 @@
+.orderItem__pic{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+}
+.orderItem__btn--red{
+    background: red;
+}
+.orderItem__btn--gray{
+    background: grey;
+}
+.orderItem__star--light{
+    color: red;
+}
